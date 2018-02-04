@@ -1,0 +1,11 @@
+@font-face { font-family: Fipps; src: url('Fipps-Regular.otf'); } 
+
+body{
+    background-image: url(doggif.gif);
+        background-size: 1920px 1920px;
+}
+
+head{
+    background-image: url(CUTEES.gif);
+    background-size: cover;
+}

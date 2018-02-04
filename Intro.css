@@ -1,0 +1,37 @@
+@font-face {font-family: Cyberpunk; src: url('edunline.ttf')}
+@font-face {font-family: Commodore; src: url('CommodorePixelizedv1.2.ttf')}
+
+p {font-family: Commodore}
+
+p {color: aqua}
+
+p {font-size: 40}
+
+
+h1 {color: white}
+
+h1 {font-family: Cyberpunk}
+
+h1 {font-size: 60}
+
+h1 {color: lightskyblue}
+
+
+h2 {color: lightskyblue}
+
+h2 {font-family: Cyberpunk}
+
+h2 {font-size: 50}
+
+
+a { color:fuchsia}
+a:visited { text-decoration: none; color:fuchsia; }
+a:hover { text-decoration: none; color:fuchsia; }
+a:focus { text-decoration: none; color:fuchsia; }
+a:hover, a:active { text-decoration: none; color:fuchsia}
+
+
+body {background-image: url(Pictures/2UdjtkR.gif);
+    background-size: cover;
+}
+
